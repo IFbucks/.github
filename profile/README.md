@@ -9,7 +9,7 @@ Equipe:
 
 Links do projeto:
 
--  [Documentação](https://github.com/IFBucks/P10Documentacao)
+-  [Documentação](https://github.com/IFBucks/pi_IFbucks )
 -  [Administração](https://github.com/IFBucks/ifbucks-front)
 -  [BackEnd](https://github.com/IFBucks/ifbucksDjango)
 -  [Aplicativo](https://github.com/IFBucks/IFBUCKS-Mobile)   
